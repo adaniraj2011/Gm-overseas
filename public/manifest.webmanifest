@@ -1,0 +1,9 @@
+{
+  "name": "Follow-Up System",
+  "short_name": "FollowUps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": []
+}
